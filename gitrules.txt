@@ -1,0 +1,11 @@
+Git commit message's template:
+  <tag> <where_changes>: <detail description>
+
+Tags:
+  [ADDED] - means that some function, structure, implemention, module or another one has added in the commit
+  [DELETED] - means that some function, structure, implemention, module or another one has deleted in the commit
+  [MODIFIED] - means that something has modified in function, structure, implemention, module or another one in the commit
+  [CHANGED] - means that something has changed to another one in function, structure, implemention, module or another one in the commit
+
+Common rules:
+  1. Any commit must have main change: the change mentioned in message. But as addition to main change there may be simplest change in other module that doesn't have to be mentioned in message.
